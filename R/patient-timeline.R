@@ -2,7 +2,7 @@
 #
 # Project: Patient Timeline
 # Author: Arturo Lopez Pineda <arturolp@stanford.edu>
-# Date: Oct 01, 2017
+# Date: Oct 02, 2017
 #
 ###############################################################
 
