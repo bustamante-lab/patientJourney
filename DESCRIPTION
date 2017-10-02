@@ -2,10 +2,15 @@ Package: patientTrajectory
 Type: Package
 Title: Patient Trajectory Timeline
 Version: 0.1.0
-Author: Arturo Lopez Pineda
-Maintainer: Arturo Lopez Pineda <arturolp@stanford.edu>
+Authors@R: person("Arturo", "Lopez Pineda", email = "arturolp@stanford.edu",
+  role=c("aut", "cre"))
 Description: A package to create patient timelies as shown in:
 A.L. Pineda et al. "Therapeutic importance of timely immunophenotyping of breast cancer in a
 resource-constrained setting: a retrospective hospital-based cohort study" (under review by journal)
+Depends: R (>= 3.2.0)
+BugReports: https://github.com/arturolp/patientTrajectory
 License: GNU General Public License v3+
-LazyData: TRUE
+LazyData: true
+Imports:
+  ggplot2,
+  gridExtra
