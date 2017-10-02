@@ -1,10 +1,9 @@
-# PatientTrajectories package for WEKA
+# PatientTrajectories
 An R package to analyze patient's trajectories in the Electronic Medical Record
 
 
 ## Description
-EBMC builds a tree-augmented naïve Bayes model (TAN). EBMC searches over the subspace of Bayesian networks that best predict the target node. To make the search efficient, it starts with an empty network and greedily identifies the set of independent parents of the target that predict it well. Then, EBMC transforms the current network into a statistically equivalent network where the parent nodes become children of the target with arcs between them. It then searches iteratively for a new set of parents given the current structure. Finally, it greedily eliminates arcs between the children nodes.
-
+Medical trajectories of the cohort with IHC testing. Each patient is represented by a rectangle, with rows representing each year of follow-up treatment. Events are color-coded according to the type of event, and the length of the bar represents the duration between the occurrence of an event and the event that preceded it
 
 ## Citation
 For citation and more information refer to:
