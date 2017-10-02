@@ -1,0 +1,26 @@
+UMLS code,Description,grouping,color
+C0008952,Clinic Visits,Visit,lightseagreen
+C2153644,visit for: gynecological exam,Visit,lightseagreen
+C1620996,"Oncology; primary focus of visit; work-up, evaluation, or staging at the time of cancer diagnosis or recurrence (for use in a medicare-approved demonstration project)",Oncology,lightblue
+C1617848,Oncology; primary focus of visit; expectant management of patient with evidence of cancer for whom no cancer directed therapy is being administered or arranged at present; cancer directed therapy might be considered in the future (for use in a medicare-approved demonstration project),Oncology,lightblue
+C2186763,request lab results from pathology,Request lab,plum2
+C2186756,request lab results from hematology,Request lab,plum2
+C2186777,request lab results from x-ray,Request lab,plum2
+C2186774,request lab results from CT,Request lab,plum2
+C2186775,request lab results from MRI,Request lab,plum2
+C0177666,Needle biopsy of breast,Biopsy / Pathology,darksalmon
+C0585992,Surgical biopsy of breast,Biopsy / Pathology,darksalmon
+C0807321,Pathology report,Biopsy / Pathology,darksalmon
+C0086965,Selection for Treatment,Chemotherapy,papayawhip
+C4302504,Chemotherapy started,Chemotherapy,papayawhip
+C0436382,Radiotherapy started,Surgery / Radiation,hotpink
+C0024881,Mastectomy,Surgery / Radiation,hotpink
+C0851238,Lumpectomy of breast,Surgery / Radiation,hotpink
+C3248285,Quantitative HER2 immunohistochemistry (IHC) evaluation of breast cancer consistent with the scoring system defined in the ASCO/CAP guidelines (PATH),IHC results,gold1
+C3248286,"Quantitative non-HER2 immunohistochemistry (IHC) evaluation of breast cancer (eg, testing for estrogen or progesterone receptors [ER/PR]) performed (PATH)",IHC results,gold1
+C1627778,Treatment adjusted per protocol,Treatment adjusted,deepskyblue
+C0419989,Hormone replacement therapy started,Treatment adjusted,deepskyblue
+C0019993,Hospitalization,Hospitalization / Metastasis,tomato
+C1458156,Recurrent Malignant Neoplasm,Hospitalization / Metastasis,tomato
+C3694291,metastasis from malignant neoplasm of breast,Hospitalization / Metastasis,tomato
+C0687702,Cancer Remission,Remission,olivedrab1

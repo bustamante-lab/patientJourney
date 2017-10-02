@@ -1,0 +1,9 @@
+{
+    "path" : "~/Dropbox/PatientTrajectories/Rpackage/patientTrajectory",
+    "sortOrder" : [
+        {
+            "ascending" : true,
+            "columnIndex" : 2
+        }
+    ]
+}

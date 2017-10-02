@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "Package: patientTrajectory\nType: Package\nTitle: Patient Trajectory Timeline\nVersion: 0.1.0\nAuthor: Arturo Lopez Pineda\nMaintainer: Arturo Lopez Pineda <arturolp@stanford.edu>\nDescription: A package to create patient timelies as shown in:\nA.L. Pineda et al. \"Therapeutic importance of timely immunophenotyping of breast cancer in a\nresource-constrained setting: a retrospective hospital-based cohort study\" (under review by journal)\nLicense: GNU General Public License v3+\nLazyData: TRUE\n",
+    "created" : 1505864535378.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2680636021",
+    "id" : "FC7B6222",
+    "lastKnownWriteTime" : 1505866400,
+    "last_content_update" : 1505866400794,
+    "path" : "~/Dropbox/PatientTrajectories/Rpackage/patientTrajectory/DESCRIPTION",
+    "project_path" : "DESCRIPTION",
+    "properties" : {
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "dcf"
+}
