@@ -13,4 +13,4 @@ For citation and more information refer to:
 
 
 ## Current development status
-This package is in development by Arturo Pineda, PhD
+This package is in development by Arturo Lopez Pineda, PhD (arturolp @ stanford.edu)
