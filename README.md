@@ -8,7 +8,7 @@ Medical trajectories of the cohort: Each patient is represented by a rectangle, 
 ## Citation
 For citation and more information refer to:
 
->A.L. Pineda et al. "Data mining of electronic health records in a resource-constrained setting reveals that timely immunophenotyping improves breast cancer outcomes" (under review).
+>A.L. Pineda et al. "Data mining of digitized health records in a resource-constrained setting reveals that timely immunophenotyping improves breast cancer outcomes" (under review).
 
 
 ## Current development status
