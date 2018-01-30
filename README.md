@@ -2,7 +2,6 @@
 An R package to analyze patient's trajectories in the Electronic Health Record
 
 ![GitHub Logo](/patient-monitor.png)
-Format: ![Alt Text](url)
 
 ## Description
 Medical trajectories of the cohort: Each patient is represented by a rectangle, with rows representing each year of follow-up treatment. Events are color-coded according to the type of event, and the length of the bar represents the duration between the occurrence of an event and the event that preceded it.
