@@ -1,5 +1,5 @@
 # PatientJourney
-An R package to analyze patient's trajectories in the Electronic Health Record
+An R package to analyze patient's journeys in the Electronic Health Record
 
 ![GitHub Logo](/patient-monitor.png)
 
