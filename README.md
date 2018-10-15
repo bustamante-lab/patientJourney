@@ -9,7 +9,8 @@ Medical journeys of the cohort: Each patient is represented by a rectangle, with
 ## Citation
 For citation and more information refer to:
 
->A.L. Pineda et al. "Data mining of digitized health records in a resource-constrained setting reveals that timely immunophenotyping is associated with improved breast cancer outcomes" (under review).
+>Lopez Pineda, A. et al. (2018). Data mining of digitized health records in a resource-constrained setting reveals that timely immunophenotyping is associated with improved breast cancer outcomes. BMC Cancer, 18(1), 933. http://doi.org/10.1186/s12885-018-4833-4
+
 
 
 ## Current development status
